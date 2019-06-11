@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DemoPractise/DemoPractise.iml" filepath="$PROJECT_DIR$/DemoPractise/DemoPractise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloboot/helloboot.iml" filepath="$PROJECT_DIR$/helloboot/helloboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-module/order-module.iml" filepath="$PROJECT_DIR$/order-module/order-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-common/restcommon.iml" filepath="$PROJECT_DIR$/rest-common/restcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-config/restconfig.iml" filepath="$PROJECT_DIR$/rest-config/restconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-registry/restregistry.iml" filepath="$PROJECT_DIR$/rest-registry/restregistry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-server-api/restserverapi.iml" filepath="$PROJECT_DIR$/rest-server-api/restserverapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-sso-server/restssoserver.iml" filepath="$PROJECT_DIR$/rest-sso-server/restssoserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-zuul/restzuul.iml" filepath="$PROJECT_DIR$/rest-zuul/restzuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webclient/webclient.iml" filepath="$PROJECT_DIR$/webclient/webclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yuncloud.iml" filepath="$PROJECT_DIR$/yuncloud.iml" />
+    </modules>
+  </component>
+</project>

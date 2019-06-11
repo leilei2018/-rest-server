@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="helloboot" />
+        <module name="webclient" />
+        <module name="restssoserver" />
+        <module name="restconfig" />
+        <module name="restregistry" />
+        <module name="order-module" />
+        <module name="restzuul" />
+        <module name="restcommon" />
+        <module name="restserverapi" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DemoPractise" target="1.8" />
+      <module name="helloboot" target="1.8" />
+      <module name="order-module" target="1.8" />
+      <module name="registry" target="1.8" />
+      <module name="restcommon" target="1.8" />
+      <module name="restconfig" target="1.8" />
+      <module name="restregistry" target="1.8" />
+      <module name="restserverapi" target="1.7" />
+      <module name="restssoserver" target="1.7" />
+      <module name="restzuul" target="1.8" />
+      <module name="webclient" target="1.8" />
+      <module name="yuncloud" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="DemoPractise" options="-parameters" />
+      <module name="helloboot" options="-parameters" />
+      <module name="order-module" options="-parameters" />
+      <module name="registry" options="-parameters" />
+      <module name="restcommon" options="-parameters" />
+      <module name="restconfig" options="-parameters" />
+      <module name="restregistry" options="-parameters" />
+      <module name="restserverapi" options="-parameters" />
+      <module name="restssoserver" options="-parameters" />
+      <module name="restzuul" options="-parameters" />
+      <module name="webclient" options="-parameters" />
+    </option>
+  </component>
+</project>

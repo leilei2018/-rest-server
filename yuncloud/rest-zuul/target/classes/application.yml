@@ -1,0 +1,17 @@
+server:
+  port: 8870
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://192.168.1.104:8761/eureka/
+
+spring:
+  application:
+    name: zuul-server
+
+zuul:
+  routes:
+    api-order:
+      path: /api-order/** #所有以/api-order/开头的都会都转发到服务serviceId上
+      serviceId: order-server
